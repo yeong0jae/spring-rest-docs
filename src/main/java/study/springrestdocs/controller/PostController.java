@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import study.springrestdocs.domain.Post;
-import study.springrestdocs.domain.dto.PostRequestDto;
-import study.springrestdocs.domain.dto.PostResponseDto;
+import study.springrestdocs.controller.dto.PostRequestDto;
+import study.springrestdocs.controller.dto.PostResponseDto;
 
 @RestController
 public class PostController {

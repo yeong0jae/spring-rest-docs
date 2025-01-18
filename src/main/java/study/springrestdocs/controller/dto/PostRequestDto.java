@@ -1,4 +1,4 @@
-package study.springrestdocs.domain.dto;
+package study.springrestdocs.controller.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
